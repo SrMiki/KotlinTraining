@@ -1,8 +1,7 @@
 package com.miki.kotlintraining.weeklychallenge2022
 
 /*
- * Reto #1
- * ¿ES UN ANAGRAMA?
+ * Reto #1 | ¿ES UN ANAGRAMA?
  *
  * Enunciado: Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Boolean)
  * según sean o no anagramas.

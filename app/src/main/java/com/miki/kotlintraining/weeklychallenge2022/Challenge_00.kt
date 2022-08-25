@@ -1,8 +1,7 @@
 package com.miki.kotlintraining.weeklychallenge2022
 
 /*
-* Reto #0
-* "FIZZ BUZZ"
+* Reto #0 |  "FIZZ BUZZ"
 *
 * Enunciado: Escribe un programa que muestre por consola (con un print) los números de 1 a 100
 * (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
