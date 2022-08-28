@@ -21,12 +21,9 @@ fun main() {
 
 }
 
-fun reverseString(stringToReverse: String): String {
-    if (stringToReverse.length < 2) {
-        return stringToReverse
-    }
+private fun reverseString(stringToReverse: String): String {
     var aux = ""
-    
+
     for (i in (stringToReverse.length - 1) downTo 0) {
         aux += stringToReverse[i]
     }
