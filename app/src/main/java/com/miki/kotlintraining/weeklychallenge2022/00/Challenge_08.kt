@@ -1,4 +1,4 @@
-package com.miki.kotlintraining.weeklychallenge2022
+package com.miki.kotlintraining.weeklychallenge2022.`00`
 
 /*
  * Reto #8 | DECIMAL A BINARIO
